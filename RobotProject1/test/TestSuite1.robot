@@ -86,7 +86,10 @@ FirstSeleniumTest
     Log                          Test Completed
     Set Tags                     regression1
     Remove Tags                  regression1
-    
+
+SecondSeleniumTest
+    Log    I am inside second selenium test
+
 SampleLoginTest1
     [Documentation]    This is a sample login test
     Open Browser                 ${URL}                chrome
